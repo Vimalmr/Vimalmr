@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vimalmr.
-- 👀 I’m interested in Computer and related things.
+- 👀 I’m interested in Programming and Web Development.
 - 🌱 I’m currently studying Computer Science and Design. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
