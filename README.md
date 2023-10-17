@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vimal MR</h1>
-<h3 align="center">I'm passionate about Software / Web development.</h3>
+<h3 align="center">Passionate about Software Development.</h3>
 
 <br>
 
