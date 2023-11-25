@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Vimal MR</h1>
-<h3 align="center">Passionate about Software Development.</h3>
+<h3 align="center">Software Development</h3>
 
 <br>
 
 - 🌱 I’m currently studying **Computer Science and Design**
-- 📫 How to Reach me <a href="mailto:vimalmr65@gmail.com">vimalmr65@gmail.com</a>
+- 📫 How to Reach me <a href="mailto:vimalmram@gmail.com">vimalmram@gmail.com</a>
 
 <br>
 
