@@ -1,16 +1,26 @@
-<h1 align="center">Hi, I'm Vimal MR</h1>
-<h3 align="center">Software Developer</h3> 
+# Hi, I'm Vimal MR🫡
+
+## SDE @ Thoughtscrest | Finastra(Contingent)
+
+### The Tech I Touch Daily
+* **Languages:** Java, SQL.
+* **Frameworks:** Spring Boot, ORM.
+* **Tools:** Git, Docker, Swagger (OpenAPI)
+
+> **Fundamentals > Framework.** Because tools change, but logic is forever
+
+### Current Status
+* **Working as:** SDE @ Thoughtscrest | Finastra(Contingent)
+* **Learning:** Building systems that are more reliable than my gym attendance.
+* **Collaboration:** Open to open-source or commercial projects. If it's quirky, goofy, or technically challenging, I'm in.
+* **Email:** <a href="mailto:vimalmram@gmail.com">vimalmram@gmail.com</a>
+
+---
+
+### Let's Connect
+If you want to talk about backend, or why I gaze at Java, find me here:
 
 <br>
-
-- 🔭 I’m currently working as an SDE @ Thoughtscrest
-- 🌱 I’m currently exploring and building scalable backend services and tools.
-- 👯 I’m looking to collaborate on open source/commercial projects
-- 📫 How to Reach me <a href="mailto:vimalmram@gmail.com">vimalmram@gmail.com</a>
-
-<br>
-
-<span lign="left">Connect @ </span>
 <a href="https://linkedin.com/in/vimalmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vimalmr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vimalmr65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vimalmr65" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vimal-mr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vimalmr" height="30" width="40" /></a>
+
