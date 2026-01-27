@@ -11,7 +11,6 @@
 
 ### Current Status
 * **Working as:** SDE @ Thoughtscrest | Finastra(Contingent)
-* **Learning:** Building systems that are more reliable than my gym attendance.
 * **Collaboration:** Open to open-source or commercial projects. If it's quirky, goofy, or technically challenging, I'm in.
 * **Email:** <a href="mailto:vimalmram@gmail.com">vimalmram@gmail.com</a>
 
