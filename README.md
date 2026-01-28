@@ -7,7 +7,7 @@
 * **Frameworks:** Spring Boot, ORM.
 * **Tools:** Git, Docker, Swagger (OpenAPI)
 
-> **Fundamentals > Framework.** Because tools change, but logic is forever
+> **Fundamentals > Framework.** Because tools change, but logic is forever.
 
 ### Current Status
 * **Working as:** SDE @ Thoughtscrest | Finastra(Contingent)
