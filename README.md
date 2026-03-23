@@ -1,6 +1,6 @@
 # Hi, I'm Vimal MR🫡
 
-## SDE @ Thoughtscrest | Finastra(Contingent)
+## Software Developer
 
 ### The Tech I Touch Daily
 * **Languages:** Java, SQL.
@@ -10,7 +10,7 @@
 > **Fundamentals > Framework.** tools change, logic forever.
 
 ### Current Status
-* **Working as:** SDE @ Thoughtscrest | Finastra(Contingent)
+* **Working as:** Software Developer
 * **Collaboration:** Open to open-source or commercial projects. If it's quirky, goofy, or technically challenging, I'm in.
 ---
 
