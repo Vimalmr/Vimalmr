@@ -1,21 +1,16 @@
 # Hi, I'm Vimal MR🫡
 
-## Software Developer
-
-### The Tech I Touch Daily
-* **Languages:** Java, SQL.
-* **Frameworks:** Spring Boot, Spring Batch, ORM.
-* **Tools:** Git, Docker, Swagger (OpenAPI)
+## Engineering @ Numero.io
 
 > **Fundamentals > Framework.** tools change, logic forever.
 
 ### Current Status
-* **Working as:** Software Developer
+* **Working as:** Software Engineer
 * **Collaboration:** Open to open-source or commercial projects. If it's quirky, goofy, or technically challenging, I'm in.
 ---
 
 ### Let's Connect
-If you want to talk about backend, or why I gaze at Java, shoot an email at 
+Shoot an email at 
 <a href="mailto:vimalmram@gmail.com">vimalmram@gmail.com</a>
 or find me here:
 <br>
